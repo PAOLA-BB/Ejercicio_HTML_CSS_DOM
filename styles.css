@@ -1,0 +1,27 @@
+body { 
+   display: flexbox;
+   text-align: center;   
+}
+
+header{
+    padding: 100px;
+}
+
+section{
+    padding: 100px;
+ }
+
+ button {
+    background-color: blue;
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    margin: 0px 50px;
+ }
+
+ button .hover {
+    background-color: antiquewhite;
+    
+ }
+
+
